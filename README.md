@@ -30,3 +30,5 @@ https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-h
 ChatGPT
 
 AskBCS Learning Assistant
+
+Stack Overflow
