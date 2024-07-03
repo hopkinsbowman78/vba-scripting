@@ -4,6 +4,8 @@ In this challenge I used VBA scripting to analyze generated stock market data.
 
 
 
+
+
 ## Synopsis of Process
 
 To tackle this challenge I...
@@ -13,15 +15,21 @@ To tackle this challenge I...
 3. Looked back at Bootcamp class activites to find code to accomplish processes.
 4. Researched the resources listed below to find addtional, or more elegant, code.
    
-      a. https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-conceptual-topics   
 
-      b. ChatGPT
+
+
+## Resources
+
+
++ https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-conceptual-topics   
+
++ ChatGPT
    
-      c. AskBCS Learning Assistant
++ AskBCS Learning Assistant
    
-      d. Stack Overflow
++ Stack Overflow
    
-      e. Github (Reviewed previous VBA Challenges)
++ Github (Reviewed previous VBA Challenges)
 
 
 
