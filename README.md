@@ -5,6 +5,7 @@ In this challenge I used VBA scripting to analyze generated stock market data.
 
 
 **Synopsis of Process**
+To tackle this challenge I...
 
 1. Read and decoded the requirements of the assignment.
 2. Wrote (commented) the steps and processes needed to accomplish the goals of the assignment.
