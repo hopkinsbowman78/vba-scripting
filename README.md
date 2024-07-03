@@ -38,15 +38,12 @@ To tackle this challenge I...
 
 ## Table of Contents
 
-Screenshot Quarter 1 Results
-
-Screenshot Quarter 2 Results
-
-Screenshot Quarter 3 Results
-
-Screenshot Quarter 4 Results
-
-stockAnalysis(): VBA Script
+1. Screenshot Quarter 1 Results
+2. Screenshot Quarter 2 Results
+3. Screenshot Quarter 3 Results
+4. Screenshot Quarter 4 Results
+5. ReadMe
+6. stockAnalysis(): VBA Script
 
 
 
