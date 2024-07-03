@@ -9,11 +9,19 @@ In this challenge I used VBA scripting to analyze generated stock market data.
 2. Wrote (commented) the steps and processes needed to accomplish the goals of the assignment.
 3. Looked back at class activites to find code to accomplish processes.
 4. Researched the resources listed below to find addtional, or more elegant, code.
+   
       a. https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/visual-basic-conceptual-topics   
+
       b. ChatGPT
+   
       c. AskBCS Learning Assistant
+   
       d. Stack Overflow
+   
       e. Github (Reviewed previous VBA Challenges)
+
+
+
 
 
 
