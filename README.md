@@ -4,7 +4,7 @@ In this challenge I used VBA scripting to analyze generated stock market data.
 
 
 
-**Synopsis of Process**
+## Synopsis of Process
 
 To tackle this challenge I...
 
@@ -28,7 +28,7 @@ To tackle this challenge I...
 
 
 
-**Table of Contents**
+## Table of Contents
 
 Screenshot Quarter 1 Results
 
