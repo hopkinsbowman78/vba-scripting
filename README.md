@@ -18,6 +18,7 @@ In this challenge I used VBA scripting to analyze generated stock market data.
 
 
 **Table of Contents**
+
 Screenshot Quarter 1 Results
 
 Screenshot Quarter 2 Results
