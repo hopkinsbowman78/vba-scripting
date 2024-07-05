@@ -14,6 +14,7 @@ To tackle this challenge I...
 2. Wrote (commented) the steps and processes needed to accomplish the goals of the assignment.
 3. Looked back at Bootcamp class activites to find code to accomplish processes.
 4. Researched the resources listed below to find addtional, or more elegant, code.
+5. Debugged and resubmitted code.
    
 
 
@@ -43,7 +44,7 @@ To tackle this challenge I...
 3. Screenshot Quarter 3 Results
 4. Screenshot Quarter 4 Results
 5. ReadMe
-6. stockAnalysis(): VBA Script
+6. vba_challenge code attempt 2
 
 
 
