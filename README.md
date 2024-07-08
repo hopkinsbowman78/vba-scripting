@@ -1,4 +1,4 @@
-# VBA-challenge
+# vba_challenge
 
 In this challenge I used VBA scripting to analyze generated stock market data.
 
