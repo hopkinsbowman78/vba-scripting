@@ -45,6 +45,7 @@ To tackle this challenge I...
 4. Screenshot Quarter 4 Results
 5. ReadMe
 6. vba_challenge code attempt 2
+7. Module 2 VBA Challenge (Original challenge requirements)
 
 
 
