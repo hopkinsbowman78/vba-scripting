@@ -39,13 +39,13 @@ To tackle this challenge I...
 
 ## Table of Contents
 
-1. Screenshot Quarter 1 Results
-2. Screenshot Quarter 2 Results
-3. Screenshot Quarter 3 Results
-4. Screenshot Quarter 4 Results
-5. ReadMe
-6. vba_challenge code attempt 2
-7. Module 2 VBA Challenge (Original challenge requirements)
+1. Module 2 VBA Challenge (Original Challenge Requirements)
+2. Screenshot Quarter 1 Results
+3. Screenshot Quarter 2 Results
+4. Screenshot Quarter 3 Results
+5. Screenshot Quarter 4 Results
+6. ReadMe
+7. vba_challenge code attempt 2
 
 
 
